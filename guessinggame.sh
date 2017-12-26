@@ -1,3 +1,5 @@
+#! /guessinggameproj
+
 #guessinggame file finished
 
 clear
